@@ -11,3 +11,5 @@ P_received = SNR_dB * N_BS * B
 
 #% Display the result
 print('Minimum Received Power at the BS:', P_received)
+
+print('add')
