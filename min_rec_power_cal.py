@@ -14,4 +14,4 @@ print('Minimum Received Power at the BS:', P_received)
 
 print('add')
 print('great!')
-print("wow")
+print("wow!")
